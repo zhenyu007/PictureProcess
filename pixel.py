@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat May  4 18:17:33 2019
-
+基于像素操作的实验程序
 @author: zhenyu
 """
 import datetime
